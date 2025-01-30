@@ -27,11 +27,6 @@ public:
     
 };
 
-//  TO DO
-
-//  COMPLETE THE FOLLOWING FUNCTIONS
-
-
 void TextReader::readIn(const string& filename) {
 /*std::ifstream textfile(filename);
 std::strin word;
